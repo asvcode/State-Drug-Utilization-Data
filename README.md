@@ -4,6 +4,8 @@ Publication of these drug utilization data sets have been available since the st
 
 More information about the data set and an explanation of the data field descriptions can be found in this FAQ [here.](https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-utilization-data/state-drug-utilization-data-faq/index.html)
 
+The Medium article that accompanies this page can be found [here](https://towardsdatascience.com/visualizing-state-drug-utilization-data-sets-bf65e990a766)
+
 ## Motivation
 
 Creating visually rich images of tabular data can provide insights that are often difficult to see in tabular format.
